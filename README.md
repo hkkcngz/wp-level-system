@@ -14,11 +14,8 @@ Author: Hakki 'fLuX' Cengiz
 
 Author URI: https://hakkicengiz.com
 
+Author Email: hakkicengiz7@gmail.com
+
 Text Domain: levelsystem
 
-*/
-
-
-/*
-	Copyright 2019  Hakki Cengiz  (email : hakkicengiz7@gmail.com)
 */
